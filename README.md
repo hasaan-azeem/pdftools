@@ -1,4 +1,4 @@
-# PDFTools - Free Online PDF Tools
+# PDFTools - Free Online PDF Tool
 
 A full-featured PDF tools website built with Next.js 15, TypeScript, and Tailwind CSS. Inspired by iLovePDF with clean branding and SEO optimization.
 
